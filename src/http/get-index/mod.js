@@ -11,7 +11,7 @@ export async function handler (/*req: object*/) {
       /**
        * Basic bio
        */
-      fullname: 'Your Name', // ←  Start by adding your name!
+      fullname: 'Wilson Test', // ←  Start by adding your name!
       title: 'My personal site!',
       occupation: 'Artist & Photographer',
       location: 'West Glacier, MT',
